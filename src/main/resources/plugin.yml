@@ -1,0 +1,7 @@
+main: kr.chide1.duel.PeroDuel
+name: Duel
+version: 1.0.0
+api-version: '1.20'
+
+commands:
+  결투:
